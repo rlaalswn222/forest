@@ -19,3 +19,7 @@
 
 ![3](https://github.com/user-attachments/assets/50af1835-4fc3-45b5-9552-ac26de9a0e2f)
 재선충이 산양삼에게 입힐 영향을 산양삼 재배 위치 데이터로 시각화
+
+
+<img width="663" alt="스크린샷 2024-12-04 오전 2 29 53" src="https://github.com/user-attachments/assets/b3ab5a47-82cb-491b-9efd-94eeaf748d9b">
+
